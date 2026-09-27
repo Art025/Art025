@@ -1,4 +1,4 @@
-onigon_ws is used for robocup@home.  
+onigon_ws is used for robocup@home hobby.  
 fcsc is used for Future Convenience Store Challenge.  
 summer and temperature are used for Internship.
 
