@@ -1,4 +1,4 @@
-## onigon_ws is robocup@home. fcsc is Future Convenience Store Challenge.
+onigon_ws is robocup@home. fcsc is Future Convenience Store Challenge.
 summer and temperature are Internship
 
 <!--
