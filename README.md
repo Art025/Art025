@@ -1,5 +1,5 @@
-onigon_ws is robocup@home. fcsc is Future Convenience Store Challenge.
-summer and temperature are Internship
+onigon_ws is used for robocup@home. fcsc is used for Future Convenience Store Challenge.
+summer and temperature are used for Internship.
 
 <!--
 **Art025/Art025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
